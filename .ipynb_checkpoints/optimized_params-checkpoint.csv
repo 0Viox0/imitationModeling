@@ -1,0 +1,2 @@
+num_books,copies_per_book,num_librarians,num_users,arrival_rate,librarian_mean,librarian_std,user_mean,user_std
+32,6,1,33,1.0,3,0.5,44,5
